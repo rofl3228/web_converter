@@ -8,3 +8,4 @@ node_modules
 .DS_Store
 config/*
 *.sql
+/schemacrawler-15.04.01-distribution
