@@ -1,8 +1,9 @@
 /node_modules
-/static
 /mdb2postgers
 /log
 converter.service
 .idea
 .DS_Store
 config/*
+/forever
+/static/db_schema
